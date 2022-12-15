@@ -56,7 +56,7 @@ public class Main {
         //Задание 3.
 
         System.out.println("Задание 3");
-        mediumCostDay = totalForMounth / arr.length;
+        mediumCostDay = (double) totalForMounth / arr.length;
         System.out.println("Средняя сумма трат за месяц составила " + mediumCostDay + "  рублей");
 
         // Задание - Сумасшедший ученик
